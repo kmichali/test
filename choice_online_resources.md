@@ -18,7 +18,7 @@ course, no certificate’ option or the ‘Try for Free’ option.
 <col style="width: 61%" />
 </colgroup>
 <tr>
-<th><strong>A-level Mathematics </strong>(edX)</th>
+<td><strong>A-level Mathematics </strong>(edX)</td>
 <td><p><a
 href="https://www.edx.org/course/a-level-mathematics-for-year-12-course-1-algebraic">Algebraic
 Methods, Graphs and Applied Mathematics Methods</a></p>
