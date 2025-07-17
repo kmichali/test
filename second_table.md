@@ -1,8 +1,6 @@
 # Software Carpentry lessons with videos
 
-Volunteer members of the [Imperial Software Carpentry
-Initiative](https://wiki.imperial.ac.uk/display/HPC/Imperial+Software+Carpentry+Initiative)
-produced the following videos for online learning.
+Volunteer members of the Imperial Software Carpentry Initiative produced the following videos for online learning.
 
 <table>
 <colgroup>
