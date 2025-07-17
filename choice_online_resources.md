@@ -19,7 +19,7 @@ course, no certificate’ option or the ‘Try for Free’ option.
 </colgroup>
 <tr>
 <th><strong>A-level Mathematics </strong>(edX)</th>
-<th><p><a
+<td><p><a
 href="https://www.edx.org/course/a-level-mathematics-for-year-12-course-1-algebraic">Algebraic
 Methods, Graphs and Applied Mathematics Methods</a></p>
 <p><a
@@ -32,7 +32,7 @@ Sequences and Series, and Numerical Methods</a></p>
 href="https://www.edx.org/course/a-level-mathematics-for-year-13-course-2">General
 Motion, Moments and Equilibrium, The Normal Distribution, Vectors,
 Differentiation Methods, Integration Methods and Differential
-Equations</a></p></th>
+Equations</a></p></td>
 </tr>
 <tr>
 <td><strong>PreMBA Essentials for Professionals </strong>(edX)</td>
