@@ -5,10 +5,15 @@ Initiative](https://wiki.imperial.ac.uk/display/HPC/Imperial+Software+Carpentry+
 produced the following videos for online learning.
 
 <table>
+<colgroup>
+<col style="width: 18%" />
+<col style="width: 81%" />
+</colgroup>
 <tbody>
-<tr><p><strong>Version control with Git</strong> </p>
-<p>(narrated by Krishnakumar Gopalakrishnan)</p></tr>
-<tr><p>Lesson materials:</p>
+<tr>
+<td><p><strong>Version control with Git</strong> </p>
+<p>(narrated by Krishnakumar Gopalakrishnan)</p></td>
+<td><p>Lesson materials:</p>
 <p><a
 href="http://swcarpentry.github.io/git-novice/">http://swcarpentry.github.io/git-novice/</a></p>
 <p>Version control</p>
@@ -43,7 +48,8 @@ href="https://imperial.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=62aa09c6-418
 href="https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1bffc830-cdda-4fbc-8eff-a9ba0114f5af">https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1bffc830-cdda-4fbc-8eff-a9ba0114f5af</a></p>
 <p>Conflicts</p>
 <p><a
-href="https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9ff000a4-21d2-475a-a79f-a9bb00f97a02">https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9ff000a4-21d2-475a-a79f-a9bb00f97a02</a></p></tr>
+href="https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9ff000a4-21d2-475a-a79f-a9bb00f97a02">https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9ff000a4-21d2-475a-a79f-a9bb00f97a02</a></p></td>
+</tr>  
 <tr>
 <td><p><strong>The Unix shell</strong></p>
 <p>(with Chris Cave-Ayland)</p></td>
