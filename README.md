@@ -5,9 +5,8 @@ The Research Computing and Data Science Programme in
 uses the following teaching materials.  
 
 You are welcome to study and reuse under the specified terms.
-
-| **Introduction to version system using GitHub Desktop** (Adam Townsend) | <https://github.com/Pecnut/course-intro-to-git> (includes videos) |
 |----|----|
+| **Introduction to version system using GitHub Desktop** (Adam Townsend) | <https://github.com/Pecnut/course-intro-to-git> (includes videos) |
 | **Introduction to Python** (Chris Cooling) | <https://github.com/coolernato/Introduction-to-Python> |
 | **Introduction to MATLAB** (Adam Townsend) | [https://github.com/Pecnut/course-intro-to-matlab/](https://github.com/Pecnut/course-intro-to-matlab/blob/master/README.md) (includes videos) |
 | **Introduction to LaTeX** (Chris Cooling) | <https://github.com/coolernato/Introduction-to-LaTeX> |
