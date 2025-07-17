@@ -11,9 +11,9 @@ produced the following videos for online learning.
 </colgroup>
 <thead>
 <tr>
-<th><p><strong>Version control with Git</strong> </p>
-<p>(narrated by Krishnakumar Gopalakrishnan)</p></th>
-<th><p>Lesson materials:</p>
+<tr><p><strong>Version control with Git</strong> </p>
+<p>(narrated by Krishnakumar Gopalakrishnan)</p></tr>
+<tr><p>Lesson materials:</p>
 <p><a
 href="http://swcarpentry.github.io/git-novice/">http://swcarpentry.github.io/git-novice/</a></p>
 <p>Version control</p>
@@ -48,7 +48,7 @@ href="https://imperial.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=62aa09c6-418
 href="https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1bffc830-cdda-4fbc-8eff-a9ba0114f5af">https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1bffc830-cdda-4fbc-8eff-a9ba0114f5af</a></p>
 <p>Conflicts</p>
 <p><a
-href="https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9ff000a4-21d2-475a-a79f-a9bb00f97a02">https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9ff000a4-21d2-475a-a79f-a9bb00f97a02</a></p></th>
+href="https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9ff000a4-21d2-475a-a79f-a9bb00f97a02">https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9ff000a4-21d2-475a-a79f-a9bb00f97a02</a></p></tr>
 </tr>
 </thead>
 <tbody>
