@@ -17,7 +17,6 @@ course, no certificate’ option or the ‘Try for Free’ option.
 <col style="width: 38%" />
 <col style="width: 61%" />
 </colgroup>
-<thead>
 <tr>
 <th><strong>A-level Mathematics </strong>(edX)</th>
 <th><p><a
@@ -35,8 +34,6 @@ Motion, Moments and Equilibrium, The Normal Distribution, Vectors,
 Differentiation Methods, Integration Methods and Differential
 Equations</a></p></th>
 </tr>
-</thead>
-<tbody>
 <tr>
 <td><strong>PreMBA Essentials for Professionals </strong>(edX)</td>
 <td><p><a
@@ -195,5 +192,4 @@ href="https://pyproblems.github.io/book/intro.html">https://pyproblems.github.io
 Cetinkaya-Rundel and Garrett Grolemund</td>
 <td><a href="https://r4ds.hadley.nz/">https://r4ds.hadley.nz/</a></td>
 </tr>
-</tbody>
 </table>
