@@ -9,8 +9,7 @@ produced the following videos for online learning.
 <col style="width: 18%" />
 <col style="width: 81%" />
 </colgroup>
-<thead>
-<tr>
+<tbody>
 <tr><p><strong>Version control with Git</strong> </p>
 <p>(narrated by Krishnakumar Gopalakrishnan)</p></tr>
 <tr><p>Lesson materials:</p>
@@ -49,9 +48,7 @@ href="https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=1bffc830-cd
 <p>Conflicts</p>
 <p><a
 href="https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9ff000a4-21d2-475a-a79f-a9bb00f97a02">https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=9ff000a4-21d2-475a-a79f-a9bb00f97a02</a></p></tr>
-</tr>
-</thead>
-<tbody>
+
 <tr>
 <td><p><strong>The Unix shell</strong></p>
 <p>(with Chris Cave-Ayland)</p></td>
