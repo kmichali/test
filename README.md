@@ -42,5 +42,5 @@ You are welcome to study and reuse under the specified terms.
 | **Profiling and optimisation in Python**(Chris Cooling) | <https://github.com/coolernato/Profiling-and-Optimisation-in-Python> |
 | **Numerical computing in Python with numpy and scipy** (Chris Cooling) | <https://github.com/coolernato/Numerical-Computing-in-Python-with-NumPy-and-SciPy> |
 | **Reproducible and scalable research computing with containers** (Jianliang Liam Gao) | <https://github.com/jianlianggao/course-intro-to-containers> |
-| **Introduction to Creating a Website with GitHub and Markdown** | <https://github.com/ImperialCollegeLondon/RCDS-Intro-to-Creating-a-Website> |
-| **Further Website Development for Software Projects** | <https://github.com/ImperialCollegeLondon/RCDS-Further-Website-Development> |
+| **Introduction to Creating a Website with GitHub and Markdown** (Jay DesLauriers) | <https://github.com/ImperialCollegeLondon/RCDS-Intro-to-Creating-a-Website> |
+| **Further Website Development for Software Projects** (Jay DesLauriers) | <https://github.com/ImperialCollegeLondon/RCDS-Further-Website-Development> |
