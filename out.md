@@ -437,7 +437,7 @@ Using a classical thematic analysis approach (Braun & Clarke, 2006), we
 pinpointed three dominant themes that characterise the students’ module
 experience: 1) general opinions on the module as a whole, 2) group work
 dynamics, and 3) suggestions for future cohorts. [Table
-2](#_Ref211336492) summarises three main themes and sub-themes.
+2](#table2) summarises three main themes and sub-themes.
 
 For the first theme, students appreciated the module. The word
 “challenge” appeared often, followed by an expression of satisfaction
