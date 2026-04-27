@@ -31,7 +31,7 @@ secondary effect, this chapter and the framework are relevant to other
 practitioners interested in student group project work dynamics and in
 integrating research into teaching practice.
 
-## Context: elective undergraduate module including brief history
+## Context: elective undergraduate module including a brief history
 
 We describe how we approached the design and delivery of a second-year
 undergraduate module in *Interdisciplinary Research Computing (IRC)*.
@@ -452,8 +452,8 @@ usefulness of the module - either for their respective degree course
 content, future professional progression or simply as acquiring
 transferable skills. Interestingly, we observed that only about half of
 the students chose to elaborate on the evolution of their understanding
-of computing's place in the research space. There were few negative
-comments that indicated mismatch between expectations from the module
+of computing's place in the research space. There were a few negative
+comments that indicated a mismatch between expectations from the module
 and the module content. Most of these students also acknowledged that,
 after completing the module, they understood the design intent.
 
@@ -476,7 +476,7 @@ it and wish they did not have to rush at the end. We will use these
 recommendations directly in our teaching.
 
 **Table 2: Summary of the main themes identified in student reflections. Each theme
-is divided in several sub-themes, and short explanations and
+is divided into several sub-themes, and short explanations and
 representative quotes are included. Average frequencies per reflection for
 themes and sub-themes are also included.**
 
@@ -502,7 +502,7 @@ themes and sub-themes are also included.**
 <td rowspan="4"><strong>Opinions on the module as a whole
 (4)</strong></td>
 <td>General appraisal (1)</td>
-<td>Positive or very positive, often using word challenge, few unmet
+<td>Positive or very positive, often using word challenge, a few unmet
 expectations statements that acknowledge the understanding of intent
 behind the design.</td>
 <td><em>“Much appreciation to the absolutely encouraging and skilful
@@ -520,7 +520,7 @@ project was learning how to use the collaborative features on GitHub.”
 </tr>
 <tr>
 <td>Usefulness (1.3)</td>
-<td>Unprompted (and frequently), students talked about usefulness of the
+<td>Unprompted (and frequently), students talked about the usefulness of the
 module – for degree course, future professional progression or for
 acquiring transferable skills.</td>
 <td><em>“This experience allowed me to grow both technically and
@@ -530,11 +530,11 @@ and tackled complex problems that required creative problem-solving.”
 </tr>
 <tr>
 <td>Evolution of understanding of research computing (0.7)</td>
-<td>Only, half of students chose to elaborate. Good understanding –
+<td>Only half of students chose to elaborate. Good understanding –
 research computing is cross-cutting and requires much more than
 developing programming skills.</td>
 <td><em>“This module changed the way I see computing. I used to think of
-research and computing as two separate things, but now I realize that
+research and computing as two separate things, but now I realise that
 computing can be a powerful research tool in nearly every field.”
 (2024-2025)</em></td>
 </tr>
@@ -542,7 +542,7 @@ computing can be a powerful research tool in nearly every field.”
 <td rowspan="3"><strong>Group work (4.5)</strong></td>
 <td>General appraisal (2.7)</td>
 <td>Group work was commented on most frequently and prompted frequent
-honest disclosure. Mix of positive statements and expressions of
+honest disclosure. A mix of positive statements and expressions of
 frustration. Multiple factors influencing group work were mentioned:
 expectation, scheduling and degree course load, motivation,
 self-efficacy, ethic, health (physical and mental). Challenges: work
@@ -561,14 +561,14 @@ in technical and professional skills. Negative: lack of confidence
 attention from the teaching team: (1) willing to learn but not finding a
 way of contributing to the project meaningfully – being an observer, (2)
 the experienced students completing disproportionate amount of work due
-to their self-reported inability to involve the others effectively.</td>
-<td><em>“I recognized a need for greater confidence and critical
+to their self-reported inability to involve others effectively.</td>
+<td><em>“I recognised a need for greater confidence and critical
 engagement, especially when faced with uncertain methodologies proposed
 by my team” (2023-2024)</em></td>
 </tr>
 <tr>
 <td>Appraisal of others (0.5)</td>
-<td>Most comments focused on work ethics of others and came from
+<td>Most comments focused on the work ethics of others and came from
 students who shouldered more work. Very few positive statements about
 individual colleagues (positive statements generally refer to the whole
 group)</td>
@@ -581,11 +581,11 @@ leadership of the project. I was happy to do this.”
 <td rowspan="2"><strong>Message for future cohorts – “ I wish I did
 this…” (1.2)</strong></td>
 <td>Points for group work (0.6)</td>
-<td>The statements clustered into following categories (by order of
-frequency): select motivating project for all group members, manage your
+<td>The statements clustered into the following categories (by order of
+frequency): select a motivating project for all group members, manage your
 time better and avoid rush at the module end, be strict about
 accountability, realistic scoping, divide work fairly and strategically,
-communicate efficiently and honestly, make effort to get to know your
+communicate efficiently and honestly, make an effort to get to know your
 colleagues.</td>
 <td><em>“Maintaining strict goals from the beginning and conducting
 regular meetings so that the project remains on course.”
@@ -593,12 +593,12 @@ regular meetings so that the project remains on course.”
 </tr>
 <tr>
 <td>Points for personal actions (0.6)</td>
-<td>Highly mixed group of statements that show good understanding of
+<td> A highly mixed group of statements that show good understanding of
 what is needed to successfully complete the module: be proactive, don’t
-delay work, lean some Python before the module, ask questions, learn
+delay work, learn some Python before the module, ask questions, learn
 from your peers, realise that everyone has something to contribute,
 realise the strengths of collaborative work, trust yourself, have open
-and curious mind, keep good notes and log of activities.</td>
+and curious mind, and keep good notes and log of activities.</td>
 <td><em>“You are studying and working with amazing teammates, please
 embrace the learning process with an open mind and a curious heart.
 Don't be afraid to ask questions, seek help from your peers and
@@ -656,11 +656,11 @@ the programming aspect of the project and ultimately took (or were
 given) the role of poster designer or researcher. In fact, across the
 entire cohort, the least experienced students tend to be relegated to
 the tasks with the lowest friction and, as a result, the lowest learning
-potential. Even students with self-reportedly extensive programming
+potential. Even students with self-reported extensive programming
 experience, but who performed considerably worse than their teammates in
 the Connect 4 assignment seemed to be given these tasks.
 
-One student, who took a leadership role in their team, reflected they
+One student, who took a leadership role in their team, reflected that they
 had been *“very stubborn”* to seek help from their teammates because
 they knew they *“would not be able to lead as much in the actual
 coding”*. Stepping back to the most comfortable role led many students
@@ -699,8 +699,8 @@ with a Connect 4 grade below 60%, which also revealed a group that is
 likely to need additional resources and support. Three of these students
 from Life Sciences and Medicine severely overestimated self-reported
 programming experience, which affected their group placement and
-resulted in a poorer experience and learning outcomes. This has led to
-us planning improvements to the self-reporting guidelines and the
+resulted in a poorer experience and learning outcomes. This has led 
+us to plan improvements to the self-reporting guidelines and the
 development of a scaffolded project with extra support.
 
 ## Developing a generic framework for a multidisciplinary and multi-skill context
@@ -741,7 +741,7 @@ extra strain on resources but may be streamlined into a few well-defined
 learning tracks. For our modules, we use self-study of locally developed
 Python short courses that are normally taught to a postgraduate
 audience. Here are our suggestions for other teachers working with a
-multidisciplinary audience with varied prior skill.
+multidisciplinary audience with varied prior skills.
 
 - **Assume a base level of skill and be proactive in communicating this
   expectation clearly**. If possible, set a prerequisite for learning.
