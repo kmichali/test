@@ -476,8 +476,8 @@ it and wish they did not have to rush at the end. We will use these
 recommendations directly in our teaching.
 
 **Table 2: Summary of the main themes identified in student reflections. Each theme
-is divided in several sub-themes, and short explanation and
-representative quotes are included. Average frequency per reflection for
+is divided in several sub-themes, and short explanations and
+representative quotes are included. Average frequencies per reflection for
 themes and sub-themes are also included.**
 
 <table style="width:100%;">
