@@ -436,8 +436,7 @@ students, this was the first time they engaged in a reflective exercise.
 Using a classical thematic analysis approach (Braun & Clarke, 2006), we
 pinpointed three dominant themes that characterise the students’ module
 experience: 1) general opinions on the module as a whole, 2) group work
-dynamics, and 3) suggestions for future cohorts. [Table
-2](#table2) summarises three main themes and sub-themes.
+dynamics, and 3) suggestions for future cohorts. [Table 2](#table2) summarises three main themes and sub-themes.
 
 For the first theme, students appreciated the module. The word
 “challenge” appeared often, followed by an expression of satisfaction
@@ -475,6 +474,8 @@ mitigate – work is often done later than would be optimal. Students know
 it and wish they did not have to rush at the end. We will use these
 recommendations directly in our teaching.
 
+
+<a name="table2"></a>
 **Table 2: Summary of the main themes identified in student reflections. Each theme
 is divided into several sub-themes, and short explanations and
 representative quotes are included. Average frequencies per reflection for
