@@ -53,8 +53,8 @@ and related skills relevant to STEMM research and build a better
 understanding of their application. The plan was to use a variety of
 pedagogical approaches to motivate and upskill students with variable
 disciplinary interests and prior programming experience. This included,
-for example, supporting students’ transferable skills and designing an
-assessment independent of incoming students’ programming skill levels.
+for example, supporting students' transferable skills and designing an
+assessment independent of incoming students' programming skill levels.
 
 The IRC module follows the usual UK university format and runs for ten
 weeks; it is FHEQ level 6 and worth five ECTs. The format comprises 20
@@ -81,11 +81,11 @@ new assessment type.
 ## Contribution: deep dive into the student reflections
 
 In this chapter, we go a step beyond a case study. We present a mature
-design, analyse students’ reflections on the module, and conclude with a
+design, analyse students' reflections on the module, and conclude with a
 general framework useful for educators in a similar teaching context.
 
 Our design is the result of collaboration with a large teaching team,
-informed by systematic analysis of each module iteration and students’
+informed by systematic analysis of each module iteration and students'
 feedback. We describe the design in some detail and would like to bring
 the reader’s attention specifically to the Connect 4 individual
 programming assignment. The module is designed to support individual
@@ -108,7 +108,7 @@ We examined an outlier group and cross-referenced it with individual
 reflections to identify additional factors that shape the overall
 experience and ultimately determine the quality of learning.
 
-The analysis significantly deepened our understanding of students’
+The analysis significantly deepened our understanding of students'
 experiences. It helped to justify our past improvements and, most
 importantly, informed our future optimisations. To make this chapter as
 relevant as possible, we synthesised our experience to date and combined
@@ -132,7 +132,7 @@ structured opportunities for reflection on progress. At the same time,
 we aim to maximise support for individual learning, making it relevant
 to the individual’s needs. The goal is not simply to teach programming
 but to create a learning environment that mimics a real research process
-and fosters students’ agency to respond to various learning situations.
+and fosters students' agency to respond to various learning situations.
 
 A typical example of a project would be a machine learning experiment in
 which, after researching the topic and data sets, the students would
@@ -154,7 +154,7 @@ coaching approach to group supervision.
 The module's design is based on multiple theoretical frameworks. While
 project-based learning principles [@Thomas2000Review] are central,
 interdisciplinary group work, facilitated by collaborative learning
-rooted in social constructivism [@Daniels2007Companion][@Piaget1970Science][@Vygotsky1978Mind] is the primary dynamic shaping students’ experiences.
+rooted in social constructivism [@Daniels2007Companion][@Piaget1970Science][@Vygotsky1978Mind] is the primary dynamic shaping students' experiences.
 The group work aspect was somewhat underappreciated in the initial
 design, and consequently, most of the design changes we have introduced
 so far have aimed at facilitating team dynamics and fostering various
@@ -191,7 +191,7 @@ of an appropriate assessment.
 ## Design: outcomes, learning experience, and assessment
 
 During the module design phase, we defined the following intended
-learning outcomes to constitute the basis of our students’ experience.
+learning outcomes to constitute the basis of our students' experience.
 The outcomes are broad and do not address specific technical learning
 points. Instead, they create room for every student to have a unique
 experience connected to their own needs and interests.
@@ -214,7 +214,7 @@ experience connected to their own needs and interests.
 is colour-coded based on the type of pedagogical approach used to
 deliver a particular module part. Each face-to-face session provides a
 good mix of activities and most of the module involves active learning.
-The main component is group work on project of students’ own choice
+The main component is group work on project of students' own choice
 (GW labels in [Table 1](#table1)). Individual learning takes
 place via pragmatic instructions on the fundamental topics and Python
 self-study (LS and HO labels in [Table 1](#table1)).
@@ -410,8 +410,8 @@ assignment with a simple strategy. Students who are interested in
 developing a more sophisticated strategy can spend more time coding and
 achieving higher marks. Since the assignment counts for 10% of the mark,
 the advantage of more experienced coders is not disproportionate. We
-celebrate students’ achievements with a Connect 4 tournament between the
-students’ strategies, with an anonymous participation option.
+celebrate students' achievements with a Connect 4 tournament between the
+students' strategies, with an anonymous participation option.
 
 As the last task of the entire module, each student completes a two-page
 reflection on the module experience and their personal growth. These
@@ -446,7 +446,7 @@ coming across as mostly negative and 20% as mostly positive. The overall
 descriptive content of reflections was high, indicating that, for many
 students, this was the first time they engaged in a reflective exercise.
 Using a classical thematic analysis approach [@Braun2006Thematic], we
-pinpointed three dominant themes that characterise the students’ module
+pinpointed three dominant themes that characterise the students' module
 experience: 1) general opinions on the module as a whole, 2) group work
 dynamics, and 3) suggestions for future cohorts. [Table 2](#table2) summarises three main themes and sub-themes.
 
@@ -470,7 +470,7 @@ after completing the module, they understood the design intent.
 
 For the second theme, the most frequent statements in the reflections
 concerned group work and dynamics. Group work became a major part of our
-students’ experience, deemed useful and rewarding, yet also difficult g
+students' experience, deemed useful and rewarding, yet also difficult g
 to the point of frustration. We consider this the most important outcome
 of this analysis. It was revealing that, through the module iterations
 and reflections, we observed numerous other factors contributing to the
