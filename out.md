@@ -1,12 +1,25 @@
+---
+title: "Leveraging the heterogeneity - teaching computing skills to a multidisciplinary cohort with a variable skill level"
+bibliography: references.bib
+author:
+  - name: Katerina Michalickova
+    email: k.michalickova@imperial.ac.uk
+    affiliations: Imperial College London
+  - name: Chris Cooling
+    email: c.cooling10@imperial.ac.uk
+    affiliations: Imperial College London
+  - name: Jonathan Holt
+    email: j.holt23@imperial.ac.uk
+    affiliations: Imperial College London
+
+keywords:
+  - multidisciplinary context
+  - multi-skill context
+  - group work
+---
+
+
 # Leveraging the heterogeneity - teaching computing skills to a multidisciplinary cohort with a variable skill level
-
-Katerina Michalickova<sup>1</sup>, Jonathan Holt<sup>2</sup>, Chris
-Cooling<sup>1</sup> (<sup>1</sup>Early Career Researcher Institute,
-<sup>2</sup>Department of Mechanical Engineering, Imperial College
-London)
-
-Keywords: \#multidisciplinary context, \#multi-skill context, \#group
-work
 
 ## Overarching themes 
 
@@ -139,10 +152,9 @@ variable readiness of our students. Over the years, we came to value a
 coaching approach to group supervision.
 
 The module's design is based on multiple theoretical frameworks. While
-project-based learning principles (Thomas, 2000) are central,
+project-based learning principles [@Thomas2000Review] are central,
 interdisciplinary group work, facilitated by collaborative learning
-rooted in social constructivism (Daniels et al., 2007; Piaget, 1970;
-Vygotsky, 1978), is the primary dynamic shaping students’ experiences.
+rooted in social constructivism [@Daniels2007Companion][@Piaget1970Science][@Vygotsky1978Mind] is the primary dynamic shaping students’ experiences.
 The group work aspect was somewhat underappreciated in the initial
 design, and consequently, most of the design changes we have introduced
 so far have aimed at facilitating team dynamics and fostering various
@@ -314,7 +326,7 @@ Practice (HO)</td>
 One of the most challenging aspects of the module was creating a fair
 and effective assessment, considering that students start with varying
 skill levels. Project work and group assessment can be somewhat
-unreliable as a measure of students’ individual progress (Almond, 2009).
+unreliable as a measure of students’ individual progress [@Almond2009Group].
 For this module, we chose a combination of group and individual
 assessments. Students submit five assessments, three individual and two
 group ones (45% and 55%, respectively). In the individual assessments,
@@ -370,7 +382,7 @@ find useful. Our teaching team has developed a publicly available suite
 of Python courses with numerous hands-on exercises that are suitable for
 self-study: *Introduction to Python for Researchers, Intermediate
 General Python, Object-Oriented Python, Numerical Computing with Python,
-Plotting with Python, and Data Processing with Python* (ECRI, 2026).
+Plotting with Python, and Data Processing with Python* [@ECRI2026RCDS].
 Self-study is supported by a dedicated channel, weekly Q&A sessions, and
 quizzes. Students report on their progress in the third week of the
 module via a short written reflection. Here they demonstrate their
@@ -433,7 +445,7 @@ Overall, most reflections subjectively read as broadly neutral, with 9%
 coming across as mostly negative and 20% as mostly positive. The overall
 descriptive content of reflections was high, indicating that, for many
 students, this was the first time they engaged in a reflective exercise.
-Using a classical thematic analysis approach (Braun & Clarke, 2006), we
+Using a classical thematic analysis approach [@Braun2006Thematic], we
 pinpointed three dominant themes that characterise the students’ module
 experience: 1) general opinions on the module as a whole, 2) group work
 dynamics, and 3) suggestions for future cohorts. [Table 2](#table2) summarises three main themes and sub-themes.
@@ -862,27 +874,8 @@ elements – facilitating individual development, supporting and guiding
 group work, and presenting a clear narrative – the multidisciplinary and
 multi skilled module can become a transformative experience.
 
-## Bibliography
+::: {.content-visible when-format="html" unless-format="epub"}
 
-Almond, R. J. (2009) Group assessment: Comparing group and individual
-undergraduate module marks. *Assessment & Evaluation in Higher
-Education.* 34 (2), 141-148.
+## References {.unnumbered}
 
-Braun, V. & Clarke, V. (2006) Using thematic analysis in psychology.
-*Qualitative research in psychology.* 3 (2), 77-101.
-
-Daniels, H., Cole, M. & Wertsch, J. V. (2007) *The cambridge companion
-to Vygotsky.* Cambridge University Press.
-
-ECRI, E. C. R. I. (2026) *Research Computing and Data Science topics.*
-Available from:
-<https://www.imperial.ac.uk/early-career-researcher-institute/learning-and-development/courses-by-programme/research-computing-and-data-science/>.
-
-Piaget, J. (1970) *Science of education and the psychology of the child.
-Trans. D. Coltman.* New York, Orion Press.
-
-Thomas, J. (2000). *A review of research on project-based learning. San
-Rafael, CA: Autodesk.*
-
-Vygotsky, L. S. (1978) *Mind in society: Development of higher
-psychological processes.* Harvard university press.
+:::
