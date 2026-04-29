@@ -636,7 +636,7 @@ and their background, as shown in [Figure 1](#figure1). There is a uniformity of
 ![Figure 1 - Graph showing the relationship between pre-module self-appraisal and
 overall module grade.](./chapters/images/C31_leveraging_heterogeneity_fig1.png "Graph showing the relationship between pre-module self-appraisal and overall module grade.")
 -->
-<img src="./chapters/images/C31_leveraging_heterogeneity_fig1.png" alt="Figure 1 - Graph showing the relationship between pre-module self-appraisal and overall module grade." width="70%"><br><br>
+<img src="./chapters/images/C31_leveraging_heterogeneity_fig1.png" alt="Figure 1 - Graph showing the relationship between pre-module self-appraisal and overall module grade." width="80%"><br><br>
 
 
 A clearer picture of the students is apparent when we focus on the
@@ -658,7 +658,7 @@ low marks for further analysis.
 ![Figure 2 - Graph showing the relationship between pre-module self-appraisal and Connect 4 programming assignment grades.](./chapters/images/C31_leveraging_heterogeneity_fig2.png "Graph showing the relationship between pre-module self-appraisal and Connect 4 programming assignment grades.")
 -->
 
-<img src="./chapters/images/C31_leveraging_heterogeneity_fig2.png" alt="Figure 2 - Graph showing the relationship between pre-module self-appraisal and Connect 4 programming assignment grades." width="70%"><br><br>
+<img src="./chapters/images/C31_leveraging_heterogeneity_fig2.png" alt="Figure 2 - Graph showing the relationship between pre-module self-appraisal and Connect 4 programming assignment grades." width="80%"><br><br>
 
 We took all students whose Connect 4 grades were lower than 60% and
 attempted to identify commonalities in their experience in the
