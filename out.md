@@ -220,7 +220,7 @@ place via pragmatic instructions on the fundamental topics and Python
 self-study (LS and HO labels in [Table 1](#table1)).
 
 <a name="table1"></a>
-**Table 1: The Interdisciplinary Research Computing module content overview. Guide for learning experience: HO – whole cohort hands-on, GW – group work, LS – lecture style, ADM – administrative.**
+**Table 1: The Interdisciplinary Research Computing module content overview. Guide for learning experience: HO - whole cohort hands-on, GW - group work, LS - lecture style, ADM - administrative.**
 
 <table>
 <colgroup>
@@ -268,7 +268,7 @@ self-study (LS and HO labels in [Table 1](#table1)).
 <td>3</td>
 <td>Python and Group Work Q&amp;A (HO)</td>
 <td>Project Discussion (GW)</td>
-<td> </td>
+<td></td>
 <td>Guest Talk (LS)</td>
 <td>Introduction to Git (HO)</td>
 </tr>
@@ -276,14 +276,14 @@ self-study (LS and HO labels in [Table 1](#table1)).
 <td>4</td>
 <td>Project Plan Discussion, Group Check-in (GW)</td>
 <td>Python and Group Work Q&amp;A (HO)</td>
-<td> </td>
+<td></td>
 <td colspan="2">Introduction to GitHub (HO)</td>
 </tr>
 <tr>
 <td>5</td>
 <td>Project Plan Discussion (GW)</td>
 <td>Connect 4 Tournament (HO)</td>
-<td> </td>
+<td></td>
 <td>Connect 4 Tournament (HO)</td>
 <td>Gentle Introduction to Computer Architecture 1 (LS)</td>
 </tr>
@@ -291,14 +291,14 @@ self-study (LS and HO labels in [Table 1](#table1)).
 <td>6</td>
 <td>Gentle Introduction to Computer Architecture 2 (LS)</td>
 <td>Visiting Scientists (GW)</td>
-<td> </td>
+<td></td>
 <td>Project discussion, Group Check-in (GW)</td>
 <td>Finalise Git and GitHub Project Setup (GW)</td>
 </tr>
 <tr>
 <td>7</td>
 <td colspan="2">Visualising Data in Python (HO)</td>
-<td> </td>
+<td></td>
 <td>Visualising Data Practice (HO)</td>
 <td>Group Work with Advisors (GW)</td>
 </tr>
@@ -312,7 +312,7 @@ Practice (HO)</td>
 <tr>
 <td>9</td>
 <td colspan="2">Introduction to High Performance Computing (LS)</td>
-<td> </td>
+<td></td>
 <td colspan="2">Group Work with Advisors (GW)</td>
 </tr>
 <tr>
@@ -326,7 +326,7 @@ Practice (HO)</td>
 One of the most challenging aspects of the module was creating a fair
 and effective assessment, considering that students start with varying
 skill levels. Project work and group assessment can be somewhat
-unreliable as a measure of students’ individual progress [@Almond2009Group].
+unreliable as a measure of students' individual progress [@Almond2009Group].
 For this module, we chose a combination of group and individual
 assessments. Students submit five assessments, three individual and two
 group ones (45% and 55%, respectively). In the individual assessments,
@@ -397,7 +397,7 @@ repository with a simple, modular implementation of the Connect 4 game.
 Their task is to study the design and figure out how it works. Next,
 they edit a function which defines a strategy by generating the next
 move based on the current state of the board. This function already
-works, but uses a poor strategy. Students’ new code can be immediately
+works, but uses a poor strategy. Students' new code can be immediately
 tested against a provided random strategy opponent function.
 
 Once the student has developed their code, their mark can be generated
@@ -418,7 +418,7 @@ reflection on the module experience and their personal growth. These
 reflections close the learning loop for individual students and provide
 a rich source of data for further analysis.
 
-### Learning from students’ reflections
+### Learning from students' reflections
 
 As indicated, the final student reflections on the module serve a
 two-fold purpose. They help students organise their thoughts on the
@@ -451,10 +451,10 @@ experience: 1) general opinions on the module as a whole, 2) group work
 dynamics, and 3) suggestions for future cohorts. [Table 2](#table2) summarises three main themes and sub-themes.
 
 For the first theme, students appreciated the module. The word
-“challenge” appeared often, followed by an expression of satisfaction
+"challenge" appeared often, followed by an expression of satisfaction
 from learning during the process. The module overall is perceived as
-challenging overall, however students’ favourite components were the
-most complex ones – guest talks, coding assessment, or high performance
+challenging overall, however students' favourite components were the
+most complex ones - guest talks, coding assessment, or high performance
 computing. These components but one are generally not part of the
 assessment and could become victims of strategic learning. We are happy
 to report that we found no evidence of this. We were also satisfied to
@@ -479,10 +479,10 @@ students more experienced and motivated than others: they were
 frustrated by their peers' inability to contribute on the same level,
 yet they were also frustrated by not being able to engage them.
 
-For the third theme, students’ suggestions for future cohorts were in
+For the third theme, students' suggestions for future cohorts were in
 line with what we recommend and tried to promote during the module. For
 example, they highlighted a common issue that we have been trying to
-mitigate – work is often done later than would be optimal. Students know
+mitigate - work is often done later than would be optimal. Students know
 it and wish they did not have to rush at the end. We will use these
 recommendations directly in our teaching.
 
@@ -518,17 +518,17 @@ themes and sub-themes are also included.**
 <td>Positive or very positive, often using word challenge, a few unmet
 expectations statements that acknowledge the understanding of intent
 behind the design.</td>
-<td><em>“Much appreciation to the absolutely encouraging and skilful
+<td><em>"Much appreciation to the absolutely encouraging and skilful
 teaching staff, and this one-term study is one of my highlights in my
-university career!” (2023-2024)</em></td>
+university career!" (2023-2024)</em></td>
 </tr>
 <tr>
 <td>Highlights (1)</td>
 <td>Overall, students highlighted challenging topics as most appreciated
 or interesting - talks by guest scientists, followed by Connect 4
 assignment, GitHub and high performance computing</td>
-<td><em>“One of the most valuable skills that I learnt during the
-project was learning how to use the collaborative features on GitHub.”
+<td><em>"One of the most valuable skills that I learnt during the
+project was learning how to use the collaborative features on GitHub."
 (2023-2024)</em></td>
 </tr>
 <tr>
@@ -536,9 +536,9 @@ project was learning how to use the collaborative features on GitHub.”
 <td>Unprompted (and frequently), students talked about the usefulness of the
 module – for degree course, future professional progression or for
 acquiring transferable skills.</td>
-<td><em>“This experience allowed me to grow both technically and
+<td><em>"This experience allowed me to grow both technically and
 personally, as I navigated the challenges of working in a diverse group
-and tackled complex problems that required creative problem-solving.”
+and tackled complex problems that required creative problem-solving."
 (2024-2025)</em></td>
 </tr>
 <tr>
@@ -546,9 +546,9 @@ and tackled complex problems that required creative problem-solving.”
 <td>Only half of students chose to elaborate. Good understanding –
 research computing is cross-cutting and requires much more than
 developing programming skills.</td>
-<td><em>“This module changed the way I see computing. I used to think of
+<td><em>"This module changed the way I see computing. I used to think of
 research and computing as two separate things, but now I realise that
-computing can be a powerful research tool in nearly every field.”
+computing can be a powerful research tool in nearly every field."
 (2024-2025)</em></td>
 </tr>
 <tr>
@@ -561,9 +561,9 @@ expectation, scheduling and degree course load, motivation,
 self-efficacy, ethic, health (physical and mental). Challenges: work
 division causing some students to miss out on learning opportunities,
 not speaking early enough when group dynamics was suboptimal.</td>
-<td><em>“I cannot overstate the value of effective communication within
+<td><em>"I cannot overstate the value of effective communication within
 our team. Despite our diverse academic backgrounds, we managed to find a
-common language through the shared goal of the project.”
+common language through the shared goal of the project."
 (2023-2024)</em></td>
 </tr>
 <tr>
@@ -575,9 +575,9 @@ attention from the teaching team: (1) willing to learn but not finding a
 way of contributing to the project meaningfully – being an observer, (2)
 the experienced students completing disproportionate amount of work due
 to their self-reported inability to involve others effectively.</td>
-<td><em>“I recognised a need for greater confidence and critical
+<td><em>"I recognised a need for greater confidence and critical
 engagement, especially when faced with uncertain methodologies proposed
-by my team” (2023-2024)</em></td>
+by my team" (2023-2024)</em></td>
 </tr>
 <tr>
 <td>Appraisal of others (0.5)</td>
@@ -585,14 +585,14 @@ by my team” (2023-2024)</em></td>
 students who shouldered more work. Very few positive statements about
 individual colleagues (positive statements generally refer to the whole
 group)</td>
-<td><em>“As my group members were inexperienced with coding, whereas I
+<td><em>"As my group members were inexperienced with coding, whereas I
 felt more confident, it quickly became clear that I would have to take
-leadership of the project. I was happy to do this.”
+leadership of the project. I was happy to do this."
 (2023-2024)</em></td>
 </tr>
 <tr>
-<td rowspan="2"><strong>Message for future cohorts – “ I wish I did
-this…” (1.2)</strong></td>
+<td rowspan="2"><strong>Message for future cohorts - "I wish I did
+this…" (1.2)</strong></td>
 <td>Points for group work (0.6)</td>
 <td>The statements clustered into the following categories (by order of
 frequency): select a motivating project for all group members, manage your
@@ -600,8 +600,8 @@ time better and avoid rush at the module end, be strict about
 accountability, realistic scoping, divide work fairly and strategically,
 communicate efficiently and honestly, make an effort to get to know your
 colleagues.</td>
-<td><em>“Maintaining strict goals from the beginning and conducting
-regular meetings so that the project remains on course.”
+<td><em>"Maintaining strict goals from the beginning and conducting
+regular meetings so that the project remains on course."
 (2024-2025)</em></td>
 </tr>
 <tr>
@@ -612,10 +612,10 @@ delay work, learn some Python before the module, ask questions, learn
 from your peers, realise that everyone has something to contribute,
 realise the strengths of collaborative work, trust yourself, have open
 and curious mind, and keep good notes and log of activities.</td>
-<td><em>“You are studying and working with amazing teammates, please
+<td><em>"You are studying and working with amazing teammates, please
 embrace the learning process with an open mind and a curious heart.
 Don't be afraid to ask questions, seek help from your peers and
-instructors, and step out of your comfort zone” (2023-2024)</em></td>
+instructors, and step out of your comfort zone" (2023-2024)</em></td>
 </tr>
 </tbody>
 </table>
@@ -642,7 +642,7 @@ overall module grade.](./chapters/images/C31_leveraging_heterogeneity_fig1.png "
 A clearer picture of the students is apparent when we focus on the
 Connect 4 assignment, which was the only individual programming
 assessment of the module. [Figure 2](#figure2) shows grades
-grouped by students’ self-appraised programming experience and their
+grouped by students' self-appraised programming experience and their
 discipline. Broadly, we see that students from life sciences and
 medicine came into the course with lower programming experience and
 overall attained lower marks than their STEM peers. High grades between
@@ -680,13 +680,13 @@ experience, but who performed considerably worse than their teammates in
 the Connect 4 assignment seemed to be given these tasks.
 
 One student, who took a leadership role in their team, reflected that they
-had been *“very stubborn”* to seek help from their teammates because
-they knew they *“would not be able to lead as much in the actual
-coding”*. Stepping back to the most comfortable role led many students
+had been *"very stubborn"* to seek help from their teammates because
+they knew they *"would not be able to lead as much in the actual
+coding"*. Stepping back to the most comfortable role led many students
 to an underexposure to programming, and, ultimately, some regret. The
-same student continues, “*I wish I had fully engaged with the methods of
+same student continues, *"I wish I had fully engaged with the methods of
 data analysis (... which would have) allowed me to contribute more to
-the decision making*".
+the decision making"*.
 
 Two out of the 12 poorest performing students had little programming
 experience and no subject-specific knowledge relevant to their project.
@@ -790,7 +790,7 @@ multidisciplinary audience with varied prior skills.
 
 This is a key area that was identified in our study. Project work
 facilitation is a large part of implementing group work and largely
-determines the quality of students’ experience. It tends to be neglected
+determines the quality of students' experience. It tends to be neglected
 compared with technical skills development. Our suggestions are:
 
 - **Prepare students for self-assessment**. Ask for evidence for skills.
@@ -798,7 +798,7 @@ compared with technical skills development. Our suggestions are:
 - **Assemble mixed groups** and aim for maximum distribution of
   disciplines and skills.
 
-- Pay **extra attention to beginners’ placement**. For example, a single
+- Pay **extra attention to beginners' placement**. For example, a single
   beginner in an advanced group is not a good choice.
 
 - Factor in **resources for group facilitation**. It can be equally
@@ -834,7 +834,7 @@ compared with technical skills development. Our suggestions are:
 
 The learning design in this context is not straightforward, and it is
 important that students understand why we build it this way. There are
-several themes running through the module that require students’
+several themes running through the module that require students'
 attention. At the very least, students navigate the individual and group
 learning journey at the same time. Based on our experience and data
 analysis, the following points improve student experience and help them
