@@ -867,11 +867,11 @@ great opportunity for students to share experiences and learn together
 while working on a project. When projects are carefully scoped and group
 have access to dedicated advisors, the design of the project can be made
 appropriately ambitious while including all group members. It is
-essential that students’ efforts must be matched by ample support and
+essential that students' efforts must be matched by ample support and
 always accompanied by clear and reinforced guidelines for group work.
 Our experience suggests that when we pay equal attention to all three
-elements – facilitating individual development, supporting and guiding
-group work, and presenting a clear narrative – the multidisciplinary and
+elements - facilitating individual development, supporting and guiding
+group work, and presenting a clear narrative - the multidisciplinary and
 multi skilled module can become a transformative experience.
 
 ::: {.content-visible when-format="html" unless-format="epub"}
@@ -879,3 +879,4 @@ multi skilled module can become a transformative experience.
 ## References {.unnumbered}
 
 :::
+
