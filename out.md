@@ -24,7 +24,7 @@ keywords:
 ## Overarching themes 
 
 To an educator, this could be the stuff of nightmares. A classroom full
-of bright university students who have nothing in common – discipline,
+of bright university students who have nothing in common - discipline,
 motivation or prior skill level. Their expectations vary, and they all
 expect you to help them make sense of computing for their future
 research. Regardless of their differences, all students chose your
@@ -122,7 +122,7 @@ collaborative project work. Student groups design and implement an
 open-ended project. The activity is supported by a dedicated staff
 advisor who acts as a coach and an occasional technical expert. The
 planning stage takes about three weeks, followed by two weeks of writing
-and editing the project plan based on the advisor’s formative feedback.
+and editing the project plan based on the advisor's formative feedback.
 The implementation is done in the second half of the module. Projects
 are presented at a poster session in the last week of the term.
 
@@ -130,7 +130,7 @@ We give the students considerable freedom to plan their projects, while
 mitigating the open-ended nature of the work through supervision and
 structured opportunities for reflection on progress. At the same time,
 we aim to maximise support for individual learning, making it relevant
-to the individual’s needs. The goal is not simply to teach programming
+to the individual's needs. The goal is not simply to teach programming
 but to create a learning environment that mimics a real research process
 and fosters students' agency to respond to various learning situations.
 
@@ -534,7 +534,7 @@ project was learning how to use the collaborative features on GitHub."
 <tr>
 <td>Usefulness (1.3)</td>
 <td>Unprompted (and frequently), students talked about the usefulness of the
-module – for degree course, future professional progression or for
+module - for degree course, future professional progression or for
 acquiring transferable skills.</td>
 <td><em>"This experience allowed me to grow both technically and
 personally, as I navigated the challenges of working in a diverse group
@@ -543,7 +543,7 @@ and tackled complex problems that required creative problem-solving."
 </tr>
 <tr>
 <td>Evolution of understanding of research computing (0.7)</td>
-<td>Only half of students chose to elaborate. Good understanding –
+<td>Only half of students chose to elaborate. Good understanding -
 research computing is cross-cutting and requires much more than
 developing programming skills.</td>
 <td><em>"This module changed the way I see computing. I used to think of
@@ -572,7 +572,7 @@ common language through the shared goal of the project."
 in technical and professional skills. Negative: lack of confidence
 (often coupled with less prior experience. Statements that need
 attention from the teaching team: (1) willing to learn but not finding a
-way of contributing to the project meaningfully – being an observer, (2)
+way of contributing to the project meaningfully - being an observer, (2)
 the experienced students completing disproportionate amount of work due
 to their self-reported inability to involve others effectively.</td>
 <td><em>"I recognised a need for greater confidence and critical
@@ -690,9 +690,9 @@ the decision making"*.
 
 Two out of the 12 poorest performing students had little programming
 experience and no subject-specific knowledge relevant to their project.
-Both worked on their team’s poster and displayed the most
+Both worked on their team's poster and displayed the most
 dissatisfaction with their progress and experience. One Medicine student
-noted their ideas were “quickly dismissed”, with their team members
+noted their ideas were "quickly dismissed", with their team members
 “believing that working with medical images would be too complex”. Their
 project ultimately became considerably more complex, but leveraged only
 the interests of the two more experienced programmers.
